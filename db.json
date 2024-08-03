@@ -1,0 +1,46 @@
+{
+    "stories": [
+        {
+            "id": 1,
+            "fullName": "Aafreen Khan",
+            "timeStamp": "17:47 PM",
+            "recentText": "Good Day!",
+            "avatarUrl": "https://images.pexels.com/photos/296234/pexels-photo-296234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 2,
+            "fullName": "Thales Amaral",
+            "timeStamp": "11:20 AM",
+            "recentText": "My Job!",
+            "avatarUrl": "https://images.pexels.com/photos/2418479/pexels-photo-2418479.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 3,
+            "fullName": "Amanda Peixoto",
+            "timeStamp": "09:00 AM",
+            "recentText": "My beautiful Dog <3",
+            "avatarUrl": "https://images.pexels.com/photos/5002429/pexels-photo-5002429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 4,
+            "fullName": "Carlos Nobrega",
+            "timeStamp": "01:50 AM",
+            "recentText": "A Car Blue",
+            "avatarUrl": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 5,
+            "fullName": "Luan Oliveira",
+            "timeStamp": "13:50 PM",
+            "recentText": "My Best Trick!",
+            "avatarUrl": "https://images.pexels.com/photos/1769553/pexels-photo-1769553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 6,
+            "fullName": "Eliot Alderson",
+            "timeStamp": "01:50 AM",
+            "recentText": "Are you seeing me here? Mr.Roboot ",
+            "avatarUrl": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ]
+}
